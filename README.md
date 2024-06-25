@@ -6,11 +6,6 @@ This is a single-page portfolio website project showcasing the work, skills, and
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 This project is a single-page portfolio website built to present my professional information in an organized and visually appealing manner. 
